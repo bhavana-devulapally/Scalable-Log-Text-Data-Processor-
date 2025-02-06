@@ -1,6 +1,6 @@
 # Scalable-Log-Text-Data-Processor
 
-# Part 2
+
 
 Instruction to run a Hadoop program for n-gram frequencies
 
